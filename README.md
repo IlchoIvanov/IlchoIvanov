@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [raiwayApp](https://github.com/IlchoIvanov/railwayApp.git)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
